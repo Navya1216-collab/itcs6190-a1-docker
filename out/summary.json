@@ -1,0 +1,97 @@
+{
+  "total_trips": 20,
+  "avg_fare_by_city": [
+    {
+      "city": "Austin",
+      "avg_fare": 17.85
+    },
+    {
+      "city": "Boston",
+      "avg_fare": 22.0
+    },
+    {
+      "city": "Charlotte",
+      "avg_fare": 16.25
+    },
+    {
+      "city": "Chicago",
+      "avg_fare": 17.45
+    },
+    {
+      "city": "Denver",
+      "avg_fare": 19.85
+    },
+    {
+      "city": "Los Angeles",
+      "avg_fare": 19.15
+    },
+    {
+      "city": "Miami",
+      "avg_fare": 25.0
+    },
+    {
+      "city": "New York",
+      "avg_fare": 19.0
+    },
+    {
+      "city": "San Francisco",
+      "avg_fare": 20.25
+    },
+    {
+      "city": "Seattle",
+      "avg_fare": 26.95
+    }
+  ],
+  "top_by_minutes": [
+    {
+      "city": "Seattle",
+      "minutes": 40,
+      "fare": 41.0
+    },
+    {
+      "city": "Miami",
+      "minutes": 33,
+      "fare": 33.6
+    },
+    {
+      "city": "Boston",
+      "minutes": 31,
+      "fare": 30.2
+    },
+    {
+      "city": "Los Angeles",
+      "minutes": 29,
+      "fare": 28.6
+    },
+    {
+      "city": "San Francisco",
+      "minutes": 28,
+      "fare": 29.3
+    },
+    {
+      "city": "Denver",
+      "minutes": 27,
+      "fare": 27.9
+    },
+    {
+      "city": "New York",
+      "minutes": 26,
+      "fare": 27.1
+    },
+    {
+      "city": "Austin",
+      "minutes": 25,
+      "fare": 25.5
+    },
+    {
+      "city": "Chicago",
+      "minutes": 23,
+      "fare": 23.6
+    },
+    {
+      "city": "Charlotte",
+      "minutes": 21,
+      "fare": 20.0
+    }
+  ]
+}
